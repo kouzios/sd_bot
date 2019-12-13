@@ -1,0 +1,20 @@
+{
+  "name": "sd_bot",
+  "version": "1.0.0",
+  "description": "My discord bot, intended for personal use for the time being.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "build": "npm build ./"
+  },
+  "keywords": [],
+  "author": "Matthew Kouzios",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
+    "node-schedule": "^1.3.2",
+    "winston": "^3.2.1",
+    "ws": "^7.2.0"
+  }
+}
