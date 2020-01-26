@@ -1,5 +1,5 @@
-# discord-bot
-My discord bot, intended for our senior design group
+# Discord Bot
+My discord bot, intended for our senior design group. I use this bot to schedule tasks to operate every week, in order to remind the team of our meeting scheduled to be on the communications application Discord.
 
 # How to use the code itself?
 
